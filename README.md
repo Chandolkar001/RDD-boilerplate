@@ -53,6 +53,9 @@ To stop:
 
 docker-compose down
 ```
-
+````
+Check localhost:3000 for react pages (frontend)
+Check localhost:8000 for backend server
+````
 
 
