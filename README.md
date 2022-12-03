@@ -27,5 +27,32 @@ This shall complete the setup for your project.. Happy Coding :)
 9. DONE !
 ```
 
+> ## Running on Docker.
+
+### Steps if you have linux-debian based terminal:
+```
+To build and run:
+
+sh dockerinit.sh
+```
+```
+To stop:
+
+sh dockerstop.sh
+```
+
+### Steps if you are running on CMD or Power shell:
+```
+Change directory to the location where docker-compose file is located.
+
+1. docker-compose build
+2. docker-compose up -d
+```
+```
+To stop:
+
+docker-compose down
+```
+
 
 
